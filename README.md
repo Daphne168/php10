@@ -13,6 +13,7 @@ delete2.php 刪除<br>
 
 utility.php 所有的error都寫在這支<br>
 
+pagemake2.php 這是ui<br>
 上述的所有程式，都會在下方include pagemake2.php這支ui(它是所有的樣版ui畫面哦)
-pagemake2.php 這是ui 
+
 
