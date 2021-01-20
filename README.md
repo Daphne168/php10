@@ -1,4 +1,5 @@
-# php10 PDO+PDOStatement範例 (新增/查詢/修改/刪除) vs php程式和ui畫面分開作法
+# php10
+PDO+PDOStatement範例 (新增/查詢/修改/刪除) vs php程式和ui畫面分開作法<br>
 config.php 設定資料庫<br>
 
 add2.php add_save2.php 新增<br>
